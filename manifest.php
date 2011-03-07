@@ -1,0 +1,5 @@
+<?
+
+$manifest = array(
+  'private'=>true,
+);
